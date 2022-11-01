@@ -1,0 +1,23 @@
+{
+  "name": "ez-validatejs",
+  "version": "1.0.0",
+  "description": "a javascript validator package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saman2007/ez-validatejs.git"
+  },
+  "keywords": [
+    "validator",
+    "js"
+  ],
+  "author": "saman ahrari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saman2007/ez-validatejs/issues"
+  },
+  "homepage": "https://github.com/saman2007/ez-validatejs#readme"
+}
